@@ -63,7 +63,7 @@ function createBalloons(num) {
 }
 
 window.onload = function () {
-  createBalloons(50);
+  createBalloons(20);
 }
 
 // You can add a refresh Button using this...
